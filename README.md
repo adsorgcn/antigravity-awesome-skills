@@ -296,6 +296,7 @@ This collection would not be possible without the incredible work of the Claude 
 - **[amartelr/antigravity-workspace-manager](https://github.com/amartelr/antigravity-workspace-manager)**: Workspace Manager CLI companion to dynamically auto-provision subsets of skills across local development environments.
 - **[obra/superpowers](https://github.com/obra/superpowers)**: The original "Superpowers" by Jesse Vincent.
 - **[guanyang/antigravity-skills](https://github.com/guanyang/antigravity-skills)**: Core Antigravity extensions.
+- **[ilang-ai/Imprint](https://github.com/ilang-ai/Imprint)**: One skill replaces eleven: memory, compression, onboarding, code review, debugging, planning, progress tracking, testing, git workflow, SEO, and copywriting. Portable collaboration profile across 19 agents.
 - **[diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)**: Infrastructure and Backend/Frontend Guidelines.
 - **[ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)**: React UI patterns and Design Systems.
 - **[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)**: Loki Mode and Playwright integration.
